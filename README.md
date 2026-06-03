@@ -350,4 +350,4 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 *네이버 검색 API로 신뢰할 수 있는 구조화된 결과를 활용해 한국 시장 데이터 워크플로를 구축하세요.*
 
-Last Updated: 2026.06.03
+Last Updated: 2026.06.04
