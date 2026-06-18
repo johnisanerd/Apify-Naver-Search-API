@@ -356,4 +356,4 @@ Ready-to-run examples on the Apify Store.
 
 - [Export Naver Search Results to CSV](https://apify.com/johnvc/naver-search-api/examples/export-naver-search-results-to-csv?fpr=9n7kx3)
 
-Last Updated: 2026.06.17
+Last Updated: 2026.06.18
